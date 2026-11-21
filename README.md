@@ -55,6 +55,3 @@ Do not put commas or spaces inside a field. For example, write SereneAir, not Se
 - main.cpp
 - priority_flights.txt
 - README.md
-
-Name: (write your name here)
-Roll No: (write your roll number here)
